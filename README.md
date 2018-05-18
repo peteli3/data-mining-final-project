@@ -1,1 +1,1 @@
-# Correlating Athlete Value with Statistics: A NBA Case Study
+# Correlating athlete value with statistics: a NBA case study
