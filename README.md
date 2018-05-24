@@ -1,6 +1,6 @@
 # Correlating athlete value with statistics: a NBA case study
 
-Final Project for:  
+Final project for:  
 ORIE 4740 - Statistical Data Mining  
 Spring 2018, taught by Yudong Chen  
 
